@@ -1,5 +1,5 @@
 
-# _Food Blog_
+## _Food.com_
 
-Responsive website for a restaurant made with VanillaJS and HTML, CSS.
-
+_A template website made for a restaurant using HTML, CSS and JavaScript_
+_Check website [here](https://pseudoblog.netlify.app)_
